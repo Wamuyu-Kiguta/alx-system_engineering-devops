@@ -1,0 +1,2 @@
+#!/bin/bash
+output_str=$(echo "$input_str" | tr 'A' 'Z' | TR 'c' 'e')
