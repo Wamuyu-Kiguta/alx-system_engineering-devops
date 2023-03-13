@@ -1,0 +1,2 @@
+#!/bin/bash
+output_string=$(echo "$input_string" | sed 's/[cC]//g')
