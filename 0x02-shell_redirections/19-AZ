@@ -1,3 +1,2 @@
-#!/bin/bash
-echo "Enter input string: "; read input_str; echo $input_str | tr 'Ac' 'Ze'
-
+#!/bin/bash 
+output_str = input_str.replace('A', 'Z').replace('c', 'e')
