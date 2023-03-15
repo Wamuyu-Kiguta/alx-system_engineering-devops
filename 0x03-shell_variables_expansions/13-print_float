@@ -1,2 +1,2 @@
 #!/bin/bash
-prntf "%.2f \n" NUM
+prntf "%.2f \n" $NUM
